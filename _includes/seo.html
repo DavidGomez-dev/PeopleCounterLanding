@@ -77,14 +77,31 @@ site_og_image | escape -%} {%- if page.date -%} {%- assign og_type = "article" -
 <link rel="prev" href="{{ paginator.previous_page_path | absolute_url }}" />
 {% endif %} {% if paginator.next_page %}
 <link rel="next" href="{{ paginator.next_page_path | absolute_url }}" />
-{% endif %}
-
+{% endif %} {% if og_type == "article" %}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "{{ page.title }}",
+    "image": "{{ page.header.teaser }}",
+    "datePublished": "{{ page.date }}",
+    "dateModified": "{{ page.date }}",
+    "author": [
+      {
+        "@type": "{{ site.social.type }}",
+        "name": "{{ site.author.name }}",
+        "url": "{{ site.social.links | pop }}"
+      }
+    ]
+  }
+</script>
+{% else %}
 <!-- https://developers.google.com/search/docs/appearance/structured-data/software-app -->
 <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": ["WebApplication", "MobileApplication"],
-    "name": "{{ author.name }}",
+    "name": "{{ site.author.name }}",
     "operatingSystem": ["ANDROID", "IOS"],
     "applicationCategory": "UtilitiesApplication",
     "aggregateRating": {
@@ -99,8 +116,7 @@ site_og_image | escape -%} {%- if page.date -%} {%- assign og_type = "article" -
     }
   }
 </script>
-
-{% if site.google_site_verification %}
+{% endif %} {% if site.google_site_verification %}
 <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
 {% endif %} {% if site.bing_site_verification %}
 <meta name="msvalidate.01" content="{{ site.bing_site_verification }}" />

@@ -7,6 +7,7 @@ tags:
   - readability
   - standard
 classes: wide
+date: 2022-04-15 10:46:57 +0100
 excerpt: All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this.
 header:
   overlay_image: /assets/images/500x300.jpeg
