@@ -55,5 +55,16 @@ a:visited {
   }
 }
 
+@font-face {
+  font-family: "Permanent Marker";
+  font-style: normal;
+  font-weight: 400;
+  src: url("fonts/PermanentMarker.ttf") format("truetype");
+}
+
+section.cta {
+  background-image: url("/assets/images/cta.jpg") !important;
+}
+
 // New Age + Bootstrap
 @import "styles.scss";

@@ -100,7 +100,7 @@ plugins:
 
 author:
   name: "People Counter"
-  avatar: "/assets/images/portrait_black.png"
+  avatar: "/assets/images/appmockup.png"
   bio: "My awesome APP constrained to a sentence or two goes here."
   links:
     - label: "Web App"
