@@ -71,17 +71,16 @@ section.cta {
 .page__content .h2 {
   border-bottom: 0 !important;
 }
-
-h2,
-.h2,
-h3,
-.h3,
-h4,
-.h4,
-h5,
-.h5,
-h6,
-.h6 {
+:not(#page-top) h2,
+:not(#page-top) .h2,
+:not(#page-top) h3,
+:not(#page-top) .h3,
+:not(#page-top) h4,
+:not(#page-top) .h4,
+:not(#page-top) h5,
+:not(#page-top) .h5,
+:not(#page-top) h6,
+:not(#page-top) .h6 {
   font-family: "Mulish", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
 }
