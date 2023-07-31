@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: People Counter APP - Free digital tally to count
+title: People Counter
 email: counterpeopleapp@gmail.com
 pwalink: "https://app.counterpeople.com/"
 googleplaylink: "https://play.google.com/store/apps/details?id=com.counterpeople.www.twa"
