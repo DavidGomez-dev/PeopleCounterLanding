@@ -1,12 +1,6 @@
 ---
 layout: single
-title: "
-
-Introduction
-
-Counting the number of people accurately is crucial for various scenarios, such as managing crowds, tracking event attendance, or analyzing foot traffic in retail stores. With the advent of technology, mobile apps have become powerful tools for counting people efficiently and conveniently. In this guide, we will explore the concept of counting people with mobile apps, discuss different types of counters, and provide insights on accessing and utilizing these apps effectively.
-
-## "
+title: "How to Count People with Mobile Apps: A Comprehensive Guide"
 categories: blog
 tags:
   - people
@@ -15,20 +9,16 @@ tags:
   - access
 classes: wide
 date: 2023-05-13 05:13:35 +0100
-excerpt: Title: How to Count People with Mobile Apps: A Comprehensive Guide
-
-Introduction
-
-Counting the number of people accurately is crucial for various scenarios, such as managing crowds, tracking event attendance, or analyzing foot traffic in retail stores.
+excerpt: Counting the number of people accurately is crucial for various scenarios, such as managing crowds, tracking event attendance, or analyzing foot traffic in retail stores.
 header:
   overlay_image: https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Nzk0ODB8MHwxfHNlYXJjaHwyfHxwZW9wbGUlMkMlMjBtb2JpbGUlMjBhcHAlMkMlMjBjb3VudGVyJTJDJTIwYWNjZXNzfGVufDB8MHx8fDE2OTA4MTYzMjZ8MA&ixlib=rb-4.0.3&q=80&w=1080
   teaser: https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Nzk0ODB8MHwxfHNlYXJjaHwyfHxwZW9wbGUlMkMlMjBtb2JpbGUlMjBhcHAlMkMlMjBjb3VudGVyJTJDJTIwYWNjZXNzfGVufDB8MHx8fDE2OTA4MTYzMjZ8MA&ixlib=rb-4.0.3&q=80&w=400
   caption: Photo by [Christopher Campbell](https://unsplash.com/@chrisjoelcampbell?utm_source=peoplecounter&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=peoplecounter&utm_medium=referral)
 ---
 
-Title: How to Count People with Mobile Apps: A Comprehensive Guide
+# Title: How to Count People with Mobile Apps: A Comprehensive Guide
 
-Introduction
+## Introduction
 
 Counting the number of people accurately is crucial for various scenarios, such as managing crowds, tracking event attendance, or analyzing foot traffic in retail stores. With the advent of technology, mobile apps have become powerful tools for counting people efficiently and conveniently. In this guide, we will explore the concept of counting people with mobile apps, discuss different types of counters, and provide insights on accessing and utilizing these apps effectively.
 
