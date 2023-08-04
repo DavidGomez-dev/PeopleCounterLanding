@@ -9,10 +9,7 @@ tags:
   - apps
 classes: wide
 date: 2023-07-29 17:46:24 +0100
-excerpt: Title: The Best Android App to Count People: Boosting Efficiency and Accuracy
-
-Introduction:
-In today's fast-paced world, businesses and organizations are constantly seeking innovative ways to optimize their operations.
+excerpt: In today's fast-paced world, businesses and organizations are constantly seeking innovative ways to optimize their operations.
 header:
   overlay_image: https://images.unsplash.com/photo-1598965402089-897ce52e8355?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Nzk0ODB8MHwxfHNlYXJjaHwzfHxhbmRyb2lkJTJDJTIwbW9iaWxlJTIwYXBwJTJDJTIwZ29vZ2xlJTIwcGxheSUyQyUyMGFwcHN8ZW58MHwwfHx8MTY5MDgxODM4NHww&ixlib=rb-4.0.3&q=80&w=1080
   teaser: https://images.unsplash.com/photo-1598965402089-897ce52e8355?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Nzk0ODB8MHwxfHNlYXJjaHwzfHxhbmRyb2lkJTJDJTIwbW9iaWxlJTIwYXBwJTJDJTIwZ29vZ2xlJTIwcGxheSUyQyUyMGFwcHN8ZW58MHwwfHx8MTY5MDgxODM4NHww&ixlib=rb-4.0.3&q=80&w=400
