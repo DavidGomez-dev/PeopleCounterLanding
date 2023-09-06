@@ -8,10 +8,6 @@ tags:
 classes: wide
 date: 2023-08-23 22:49:09 +0100
 excerpt: Public transport management has been revolutionized in recent years, largely thanks to the explosion in the use of Internet of Things (IoT) technology.
-
-## A New Era in Public Transport Management
-
-Transportation systems around the world have long been riddled with problems - from inefficiency to lack of real-time tracking, overcrowding, and more.
 header:
   overlay_image: https://images.unsplash.com/photo-1482287068671-7fb7325e1a8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Nzk0ODB8MHwxfHNlYXJjaHwzfHxwdWJsaWMlMjB0cmFuc3BvcnQlMjBtYW5hZ2VtZW50JTJDJTIwSW9UfGVufDB8MHx8fDE2OTI4MjczNDl8MA&ixlib=rb-4.0.3&q=80&w=1080
   teaser: https://images.unsplash.com/photo-1482287068671-7fb7325e1a8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Nzk0ODB8MHwxfHNlYXJjaHwzfHxwdWJsaWMlMjB0cmFuc3BvcnQlMjBtYW5hZ2VtZW50JTJDJTIwSW9UfGVufDB8MHx8fDE2OTI4MjczNDl8MA&ixlib=rb-4.0.3&q=80&w=400
@@ -52,6 +48,6 @@ By providing real-time data about passenger numbers, IoT devices allow operators
 
 ## Conclusion: Is the IoT Revolution in Public Transport Management Here to Stay?
 
-In conclusion, the benefits of integrating IoT into public transport management are extensive. By bringing about greater efficiency, improving safety, aiding in crowd management, and providing real-time updates to passengers, IoT technology holds the promise of transforming public transport for the better. As technology evolves and cities become even more connected, the IoT revolution in public transport management is not only here to stay - it's just getting started. 
+In conclusion, the benefits of integrating IoT into public transport management are extensive. By bringing about greater efficiency, improving safety, aiding in crowd management, and providing real-time updates to passengers, IoT technology holds the promise of transforming public transport for the better. As technology evolves and cities become even more connected, the IoT revolution in public transport management is not only here to stay - it's just getting started.
 
 This increasing reliance on IoT in public transport management will surely continue to drive massive improvements in public transport infrastructure and service delivery across the globe.
