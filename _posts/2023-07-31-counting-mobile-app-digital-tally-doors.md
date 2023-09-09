@@ -48,7 +48,7 @@ Digital tally apps use the built-in sensors in smartphones to detect and track i
 
 2. [FootfallCam](https://www.footfallcam.com): FootfallCam is a powerful digital tally app designed for businesses of all sizes. It offers advanced features such as heat maps, dwell time analysis, and conversion rate tracking.
 
-3. [V-Count](https://www.v-count.com): V-Count is a comprehensive people counting solution that combines hardware and software. Their mobile app syncs with their intelligent sensors to deliver accurate foot traffic data.
+3. [V-Count]: V-Count is a comprehensive people counting solution that combines hardware and software. Their mobile app syncs with their intelligent sensors to deliver accurate foot traffic data.
 
 ## Conclusion
 
