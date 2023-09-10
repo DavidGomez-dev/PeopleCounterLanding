@@ -124,7 +124,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/@realDavidGomez"
     - label: "Sitemap"
-      icon: "fab fa-fw fa-sitemap"
+      icon: "fas fa-fw fa-sitemap"
       url: "https://www.counterpeople.com/sitemap.xml"
     - label: # "Instagram"
       icon: "fab fa-fw fa-instagram"
