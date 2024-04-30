@@ -11,9 +11,9 @@ classes: wide
 date: 2023-05-01 21:39:27 +0100
 excerpt: Have you ever found yourself in a situation where you need to count a large number of people quickly, but don't know the best way to do it? Well, we have a solution for you! Today, we're diving deep into the world of people-counting applications.
 header:
-  overlay_image: https://images.unsplash.com/photo-1464998857633-50e59fbf2fe6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Nzk0ODB8MHwxfHNlYXJjaHw0fHxhcHAlMjBmb3IlMjBjb3VudGluZyUyMHBlb3BsZSUyQyUyMHBlb3BsZSUyMGNvdW50aW5nJTIwYXBwJTJDJTIwY291bnQlMjBwZW9wbGUlMjBhcHAlMkMlMjBjb3VudGluZyUyMHBlb3BsZSUyMGFwcHxlbnwwfDB8fHwxNjkwMzgxNjcxfDA&ixlib=rb-4.0.3&q=80&w=1080
-  teaser: https://images.unsplash.com/photo-1464998857633-50e59fbf2fe6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0Nzk0ODB8MHwxfHNlYXJjaHw0fHxhcHAlMjBmb3IlMjBjb3VudGluZyUyMHBlb3BsZSUyQyUyMHBlb3BsZSUyMGNvdW50aW5nJTIwYXBwJTJDJTIwY291bnQlMjBwZW9wbGUlMjBhcHAlMkMlMjBjb3VudGluZyUyMHBlb3BsZSUyMGFwcHxlbnwwfDB8fHwxNjkwMzgxNjcxfDA&ixlib=rb-4.0.3&q=80&w=400
-  caption: Photo by [Nathan Anderson](https://unsplash.com/@nathananderson?utm_source=peoplecounter&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=peoplecounter&utm_medium=referral)
+  overlay_image: assets/images/posts/apps-counting-people.webp
+  teaser: assets/images/posts/apps-counting-people.webp
+  caption: 
 ---
 
 # Exploring the Best Apps for Counting People
@@ -26,9 +26,9 @@ A **people counting app** is a mobile application designed to count individuals 
 
 ## Top 3 Apps for Counting People
 
-1. **Counter+** 
+1. **People Counter+** 
 
-Counter+ is a simple and user-friendly **count people app**. It allows multiple counters on the same screen, enabling you to track different groups simultaneously. It's available on both Android and iOS platforms.
+People Counter is a simple and user-friendly **count people app**. It allows multiple devices counting in and out at the same time, easily sharing of events and it is complety FREE. It's available on both [Android](https://play.google.com/store/apps/details?id=com.counterpeople.www.twa) and [iOS](https://apps.apple.com/us/app/people-counter-digital-tally/id6480425693) platforms, plus being used directly as a [web application](https://app.counterpeople.com/) (PWA).
 
 2. **TallyFi** 
 
@@ -42,16 +42,16 @@ CountThings is an automatic **people counting app** that uses your phone's camer
 
 | **App** | **Features** | **Platform** |
 | --- | --- | --- |
-| *Counter+* | Multiple counters, User-friendly | Android, iOS |
+| *People Counter* | Multiple devices, User-friendly | [Android](https://play.google.com/store/apps/details?id=com.counterpeople.www.twa), [iOS](https://apps.apple.com/us/app/people-counter-digital-tally/id6480425693), [PWA](https://app.counterpeople.com/)|
 | *TallyFi* | Advanced features, Cloud-based | Android, iOS, Web |
 | *CountThings* | Automatic counting, Uses camera | Android, iOS |
 
 ## Conclusion 
 
-Whether you're a business owner wanting to track footfall, an event organizer needing to monitor crowd sizes, or just someone curious about the number of people in a space, having a reliable **app for counting people** can be invaluable. Counter+, TallyFi, and CountThings are three of the best options available today.
+Whether you're a business owner wanting to track footfall, an event organizer needing to monitor crowd sizes, or just someone curious about the number of people in a space, having a reliable **app for counting people** can be invaluable. People Counter, TallyFi, and CountThings are three of the best options available today.
 
 Before you make your choice, consider the specific needs and circumstances that require you to count people. Each app offers unique features that can cater to different scenarios and requirements.
 
 Remember, technology is here to make our lives easier. Choose the **people counting app** that best suits your needs and start counting today!
 
-*This blog is in compliance with Google’s E-A-T (Expertise, Authority, Trustworthiness) guidelines. For more details, please feel free to reach out to us.*
+*For more details, please feel free to reach out to us.*
