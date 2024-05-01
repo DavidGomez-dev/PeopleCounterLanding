@@ -26,7 +26,7 @@ A **people counting app** is a mobile application designed to count individuals 
 
 ## Top 3 Apps for Counting People
 
-1. **People Counter+**
+1. **People Counter**
 
 People Counter is a simple and user-friendly **count people app**. It allows multiple devices counting in and out at the same time, easily sharing of events and it is complety FREE. It's available on both [Android](https://play.google.com/store/apps/details?id=com.counterpeople.www.twa) and [iOS](https://apps.apple.com/us/app/people-counter-digital-tally/id6480425693) platforms, plus being used directly as a [web application](https://app.counterpeople.com/) (PWA).
 
