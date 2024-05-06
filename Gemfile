@@ -20,5 +20,5 @@ end
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-# gem "webrick", "~> 1.7"
-gem "webrick", "~> 2.2.8"
+gem "webrick", "~> 1.7"
+# gem "webrick", "~> 2.2.8"
