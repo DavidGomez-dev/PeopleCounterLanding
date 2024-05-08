@@ -8,15 +8,13 @@ tags:
   - people counting technologies
 classes: wide
 date: 2024-05-07 12:02:56 +0100
-excerpt: ## Introduction
-
-In recent years, the integration of Artificial Intelligence (AI) into various sectors has revolutionized traditional processes and systems, including the realm of people counting technologies.
+excerpt: In recent years, the integration of Artificial Intelligence (AI) into various sectors has revolutionized traditional processes and systems, including the realm of people counting technologies.
 header:
   overlay_image: /assets/images/posts/2024-05-07_549.png
   teaser: /assets/images/posts/2024-05-07_549.png
-  caption: 
+  caption:
 ---
-  
+
 # Exploring the Role of AI in Enhancing People Counting Technologies
 
 ## Introduction
