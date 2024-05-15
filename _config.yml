@@ -97,7 +97,7 @@ plugins:
 author:
   name: "People Counter"
   avatar: "/assets/images/appmockup.png"
-  bio: "A free people counter app, digital tally or clicker for counting people or attendance at your events on real time, with multiple entrances and exists and offline support."
+  bio: "A free people counter app, digital tally for counting people at your events on real time, with multiple entrances and offline support."
   links:
     - label: "Web App"
       icon: "fas fa-fw fa-mobile-alt"
